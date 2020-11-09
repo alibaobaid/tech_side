@@ -1,18 +1,12 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
-
-caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: "../assets/img/portfolio/04-thumbnail.jpg"
+title: Sales Management
+title_ar: إدارة المبيعات
+subtitle: Online application
+subtitle_ar: تطبيق عبر النت
+image: assets/img/portfolio/05-thumbnail.jpg
+thumbnail: "../assets/img/portfolio/04-thumbnail.jpg"
+body: online sales management app that is managing the daily tasks of sales with the
+  ability   to get many types of reports
+body_ar: تطبيق لادارة عمليات البيع اليوميه مع امكانيه الحصول علئ تقارير مختلفه
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
 

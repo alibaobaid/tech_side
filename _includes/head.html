@@ -35,8 +35,9 @@
   <link href="assets/css/agency.css" rel="stylesheet">
 
   <!-- rtl bootstrap override -->
-  <!-- <link rel="stylesheet" href="//cdn.rawgit.com/morteza/bootstrap-rtl/v3.3.4/dist/css/bootstrap-rtl.min.css"> -->
-
+  {% if site.lang == 'ar' %}
+    <link rel="stylesheet" href="//cdn.rawgit.com/morteza/bootstrap-rtl/v3.3.4/dist/css/bootstrap-rtl.min.css">
+  {% endif %}
   
   <!-- Page container change top padding when nav shrinks -->
   {% if page.layout == "page" %}
