@@ -1,15 +1,16 @@
 nav:
   - title: "Services"
+    title_ar: "الخدمات"
     section: services
 
   - title: "Products"
+    title_ar: "المنتجات"
     section: portfolio
 
   - title: "Team"
+    title_ar: "الفريق"
     section: team
 
   - title: "Contact"
+    title_ar: "تواصل معنا"
     section: contact
-
-  # - title: "Theme Source"
-  #   url: https://github.com/raviriley/agency-jekyll-theme/

@@ -1,31 +1,45 @@
 header:
-    title: Welcome to our site!
+    title: Welcome for you
+    title_ar: اهلا وسهلا بك
     text: TechTouch is an IT & Cloud Managed Services Provider that designs, implements and supports solutions for businesses
+    text_ar: تيك تاتش هو مزود خدمات مُدارة من تكنولوجيا المعلومات والخدمات السحابية يقوم بتصميم وتنفيذ ودعم الحلول للشركات
     button: Tell Me More
+    button_ar: خدماتنا
     buttonlink: "#services"
 
 services:
     title: "Services"
+    title_ar: "الخدمات"
     text: "our services"
+    text_ar: "خدماتنا"
     section: services
     list:
       - title: "Web Development"
+        title_ar: تطوير المواقع
         desc: "our web developer team are experiences in develop deferante types of sites and systems from cms sites to ERB syatems"
+        desc_ar: فريق مطوري الويب لدينا هم خبرات في تطوير أنواع مختلفة من المواقع والأنظمة من مواقع cms إلى أنظمة ERP
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Graphic Design"
+        title_ar: تطوير المواقع
         desc: "Design is the center of everything we do. Driven by journeys , our team create beautiful products that delight."
-        icon: fas fa-laptop       
+        desc_ar: فريق مطوري الويب لدينا هم خبرات في تطوير أنواع مختلفة من المواقع والأنظمة من مواقع cms إلى أنظمة ERP
+        icon: fas fa-laptop
       - title: "Mobile apps"
+        title_ar: تطوير المواقع
         desc: "Our mobile team brigs functional , intuitive experiences life across IOs and Android"
+        desc_ar: فريق مطوري الويب لدينا هم خبرات في تطوير أنواع مختلفة من المواقع والأنظمة من مواقع cms إلى أنظمة ERP
         icon: fab fa-markdown
-    
+
 
 portfolio:
     title: "Products"
+    title_ar: 'المشاريع'
     text: "our products."
+    text_ar: 'مشاريعنا'
     section: portfolio
     closebutton: "Close Project"
-    
+    closebutton_ar: 'اغلاق'
+
 team:
     title: "OUR AMAZING TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
@@ -62,17 +76,17 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-          
+
 contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
     section: contact
-    
+
 footer:
     legal: "Privacy Policy"
     social:
       - url: https://twitter.com
-        icon: "fab fa-twitter"  
+        icon: "fab fa-twitter"
       - url: https://facebook.com
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
@@ -87,24 +101,24 @@ footer:
 #     text: "our story"
 #     section: about
 
-# clients:
-#     section: clients
-#     max-height: 100px
-#     horizontal-scrolling: "" #"yes/no"
-#     list:
-#       # - title: "envato"
-#       #   url: https://github.com/raviriley/agency-jekyll-theme
-#       #   logo: assets/img/clients/envato.jpg
-#       # - title: "designmodo"
-#       #   url: https://github.com/raviriley/agency-jekyll-theme
-#       #   logo: assets/img/clients/designmodo.jpg
-#       # - title: "themeforest"
-#       #   url: https://github.com/raviriley/agency-jekyll-theme
-#       #   logo: assets/img/clients/themeforest.jpg
-#       # - title: "Creative Market"
-#       #   url: https://github.com/raviriley/agency-jekyll-theme
-#       #   logo: assets/img/clients/creative-market.jpg
-    
+clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+       - title: "envato"
+         url: https://github.com/raviriley/agency-jekyll-theme
+         logo: assets/img/clients/envato.jpg
+       - title: "designmodo"
+         url: https://github.com/raviriley/agency-jekyll-theme
+         logo: assets/img/clients/designmodo.jpg
+       - title: "themeforest"
+         url: https://github.com/raviriley/agency-jekyll-theme
+         logo: assets/img/clients/themeforest.jpg
+       - title: "Creative Market"
+         url: https://github.com/raviriley/agency-jekyll-theme
+         logo: assets/img/clients/creative-market.jpg
+
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
