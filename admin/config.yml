@@ -8,6 +8,7 @@ collections:
   - name: 'product'
     label: 'product'
     folder: '_portfolio/'
+    create: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Title AR', name: 'title_ar', widget: 'string' }
