@@ -15,7 +15,7 @@ services:
     section: services
     list:
       - title: "Web Development"
-        title_ar: تطوير المواقع
+        title_ar: تجربة العمل
         desc: "our web developer team are experiences in develop deferante types of sites and systems from cms sites to ERB syatems"
         desc_ar: فريق مطوري الويب لدينا هم خبرات في تطوير أنواع مختلفة من المواقع والأنظمة من مواقع cms إلى أنظمة ERP
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
